@@ -85,8 +85,7 @@ TC11	Login with error_user	Shows error or loads inventory (planned)
 TC12	Login with visual_user	UI matches baseline (planned)
 
 📂 Project Structure
-bash
-Copy code
+
 swag-tests/
 ├─ pages/              # Page Object Models
 │  ├─ login_page.py
